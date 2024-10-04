@@ -1,3 +1,3 @@
 # Git-demo
 This is my first git repository
-author - Vishal
+author - Vishal(web developer)
